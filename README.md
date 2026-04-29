@@ -40,3 +40,20 @@ A fully functional movie recommendation engine built from scratch using:
 | Recommendations | Graph + BFS | O(V+E) |
 | Rating system | Aggregated Model | O(1) update |
 | Top-5 ranking | Timsort | O(n log n) |
+
+
+
+
+
+
+## Output for the Code used in the .py file
+<img width="1920" height="1020" alt="Screenshot 2026-04-30 021029" src="https://github.com/user-attachments/assets/f260b940-0c96-4187-8a44-06dbfe4f9934" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-30 021036" src="https://github.com/user-attachments/assets/cab8feed-2d08-487d-bbdd-5d1dc9e56c4b" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-30 021041" src="https://github.com/user-attachments/assets/2bd40718-a745-459d-9c31-37d5c5af83ca" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-30 021045" src="https://github.com/user-attachments/assets/c6b11f39-3216-4bae-9ffb-0d27ca343e58" />
+<img width="1920" height="1020" alt="Screenshot 2026-04-30 021049" src="https://github.com/user-attachments/assets/4deae022-9434-4fc8-bc21-6b79aa6b3e7b" />
+
+
+
+
+
