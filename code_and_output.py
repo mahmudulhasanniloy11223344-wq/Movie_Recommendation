@@ -309,4 +309,4 @@ print("\n>>> FEATURE 6: RECOMMENDATIONS (BFS)")
 get_recommendations(viewing_history, graph, movie_registry, user_ratings)
  
 print("\n>>> BONUS: GRAPH CONNECTIONS")
-print_graph_sample(graph, movie_registry, [1, 4, 17])
+print_graph_sample(graph, movie_registry,[1, 4, 17])
